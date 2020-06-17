@@ -1,0 +1,14 @@
+textures {
+	0,textures\cardboard.jpg
+}
+terrainTextures {
+	0,textures\terraintest.png
+	1,C:\Users\Rares\Documents\2DGameEngine\2DGameEngine\2DGameEngine\terrain\terrain2.png
+}
+gameObjects {
+	0,gameObject0,1320.54,614.825,60,60,-1,4278190080,1,0,0,0,15,40,-1,0,1,0,0
+	1,gameObject1,295.864,379.561,50,50,-1,4278255360,1,0,0,0,15,40,-1,0,1,0,0
+}
+terrainObjects {
+	0,0,0,1600,1100,1
+}

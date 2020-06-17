@@ -1,0 +1,14 @@
+textures {
+}
+terrainTextures {
+	0,C:\Users\Rares\Documents\2DGameEngine\2DGameEngine\2DGameEngine\terrain\terraintest.png
+	1,C:\Users\Rares\Documents\2DGameEngine\2DGameEngine\2DGameEngine\terrain\terrain1.png
+	2,C:\Users\Rares\Documents\2DGameEngine\2DGameEngine\2DGameEngine\terrain\terrain2.png
+}
+gameObjects {
+	0,gameObject0,295.55,405.787,40,40,-1,4294967295,1,0,0,6,15,40,-1,1,5,0,0
+	1,gameObject1,1355.86,621.408,60,60,-1,4278190335,1,0,0,0,15,40,-1,0,1,1,1
+}
+terrainObjects {
+	0,0,0,1600,1100,2
+}

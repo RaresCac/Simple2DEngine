@@ -1,0 +1,4 @@
+#pragma once
+enum GameObjectActions {
+	NO_ACTION, ACT_DIG_H, ACT_DIG_V, ACT_DIG_DIAG, ACT_STAIRS, ACT_CLIMB, ACT_GENERATE
+};
